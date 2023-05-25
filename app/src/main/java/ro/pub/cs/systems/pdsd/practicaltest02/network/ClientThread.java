@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.practicaltest02.network;
+package ro.pub.cs.systems.pdsd.practicaltest02.network;
 
 import android.util.Log;
 import android.widget.TextView;
